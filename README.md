@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jerrygrgx
+- 👋 Hi, I’m Nishant Tiwari
 - 👀 I’m interested in Java and python
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on IOS deveoper
